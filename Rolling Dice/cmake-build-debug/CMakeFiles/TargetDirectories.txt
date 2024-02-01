@@ -1,0 +1,3 @@
+C:/My Programming/C++/Rolling Dice/cmake-build-debug/CMakeFiles/Rolling_Dice.dir
+C:/My Programming/C++/Rolling Dice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My Programming/C++/Rolling Dice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
