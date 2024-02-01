@@ -1,1 +1,1 @@
-# TechnoHacks-C-Internship
+# TechnoHacks Internship
